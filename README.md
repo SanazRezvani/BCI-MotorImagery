@@ -4,7 +4,7 @@
 
 This repository holds the below projects. Currently they're binned in five different categories.
 
-1. [EDA (Exploratory data Analysis)]()
+1. [EDA (Exploratory data Analysis)](https://github.com/SanazRezvani/EDA)
 2. [Prediction (Regression)]()
 3. [Prediction (Classification)]()
 4. [Cluster analysis (unclassified data)]()
