@@ -1,4 +1,8 @@
-# Sanaz Rezvani - Data Science Projects Portfolio
+# Data Science Projects Portfolio - Sanaz Rezvani
+
+Welcome to my portfolio!
+
+My name is Sanaz. I ...
 
 ## Index
 
