@@ -4,7 +4,7 @@ Welcome to my portfolio!
 
 My name is Sanaz. I ...
 
-## Index
+## Table of Contents
 
 This repository holds the below projects. Currently they're binned in five different categories.
 
